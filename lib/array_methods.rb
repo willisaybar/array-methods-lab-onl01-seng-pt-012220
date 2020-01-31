@@ -9,20 +9,20 @@ end
 
 def using_reverse(array)
   array = ["wow", "I"]
-  array.reverse(array)
+  array.reverse
 end
 
 def using_first(array)
   array = ["wow", "I"]
-  array.first(array)
+  array.first
 end
 
 def using_last(array)
   array = ["wow", "I"]
-  array.last(array)
+  array.last
 end
 
 def using_size(array)
   array = ["wow", "I"]
-  array.size(array)
+  array.size
 end
